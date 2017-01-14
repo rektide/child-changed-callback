@@ -1,0 +1,16 @@
+{
+	"name": "child-changed-callback",
+	"version": "1.0.0",
+	"description": "Call `childChangedCallback` on an element when it's children change",
+	"main": "child-changed-callback.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/child-changed-callback"
+	},
+	"keywords": ["custom elements", "mutationobserver"],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
